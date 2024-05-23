@@ -1,0 +1,15 @@
+C:\Users\acer\Documents\Amuguis\Registration and Login\Registration and Login\bin\Debug\Registration and Login.exe.config
+C:\Users\acer\Documents\Amuguis\Registration and Login\Registration and Login\bin\Debug\Database1.mdf
+C:\Users\acer\Documents\Amuguis\Registration and Login\Registration and Login\bin\Debug\Database1_log.ldf
+C:\Users\acer\Documents\Amuguis\Registration and Login\Registration and Login\bin\Debug\Registration and Login.exe
+C:\Users\acer\Documents\Amuguis\Registration and Login\Registration and Login\bin\Debug\Registration and Login.pdb
+C:\Users\acer\Documents\Amuguis\Registration and Login\Registration and Login\obj\Debug\Registration_and_Login.Form1.resources
+C:\Users\acer\Documents\Amuguis\Registration and Login\Registration and Login\obj\Debug\Registration_and_Login.Properties.Resources.resources
+C:\Users\acer\Documents\Amuguis\Registration and Login\Registration and Login\obj\Debug\Registration and Login.csproj.GenerateResource.Cache
+C:\Users\acer\Documents\Amuguis\Registration and Login\Registration and Login\obj\Debug\Registration and Login.exe
+C:\Users\acer\Documents\Amuguis\Registration and Login\Registration and Login\obj\Debug\Registration and Login.pdb
+C:\Users\acer\Documents\Amuguis\Registration and Login\Registration and Login\obj\Debug\Registration_and_Login.Form2.resources
+C:\Users\acer\Documents\Amuguis\Registration and Login\Registration and Login\bin\Debug\MySql.Data.dll
+C:\Users\acer\Documents\Amuguis\Registration and Login\Registration and Login\obj\Debug\Registration_and_Login.Form3.resources
+C:\Users\acer\Documents\Amuguis\Registration and Login\Registration and Login\obj\Debug\Registration_and_Login.Form4.resources
+C:\Users\acer\Documents\Amuguis\Registration and Login\Registration and Login\obj\Debug\Registration and Login.csprojResolveAssemblyReference.cache
